@@ -1,5 +1,0 @@
-C:\Users\due204\Documents\SharpDevelop Projects\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.exe
-C:\Users\due204\Documents\SharpDevelop Projects\TrabajoPractico\TrabajoPractico\bin\Debug\TrabajoPractico.pdb
-C:\Users\due204\Documents\SharpDevelop Projects\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.csprojResolveAssemblyReference.cache
-C:\Users\due204\Documents\SharpDevelop Projects\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.exe
-C:\Users\due204\Documents\SharpDevelop Projects\TrabajoPractico\TrabajoPractico\obj\Debug\TrabajoPractico.pdb
