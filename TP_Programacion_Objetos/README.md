@@ -37,7 +37,7 @@ C#.
 1.  Clonar el repositorio:
 
     ``` bash
-    git clone https://github.com/due204/Facultad.git
+    git clone <FALTA_ESTA_PARTE>
     ```
 
 2.  Ir al directorio del TP:
