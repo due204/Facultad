@@ -1,5 +1,7 @@
 # Kanban CLI
 
+![kanban_cli](https://raw.githubusercontent.com/due204/Facultad/refs/heads/main/kanban_cli/kanban_cli.png)
+
 Una herramienta de línea de comandos desarrollada en **C#** para
 gestionar tableros Kanban de manera simple, rápida y eficiente desde la
 terminal.
