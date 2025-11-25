@@ -7,7 +7,7 @@ cursada y, además, investigar y aplicar un **tema no visto** en clase.
 
 En mi caso, los conceptos nuevos incorporados fueron:
 
--   **Tkinter**: para construir una interfaz gráfica simple en Python.\
+-   **Tkinter**: para construir una interfaz gráfica simple en Python.
 -   **gTTS (Google Text-to-Speech)**: para convertir texto ingresado por
     el usuario en un archivo de audio `.mp3`.
 
@@ -18,8 +18,8 @@ En mi caso, los conceptos nuevos incorporados fueron:
 El script `generar_audio.py` permite:
 
 1.  Ingresar texto mediante una interfaz gráfica desarrollada con
-    Tkinter.\
-2.  Convertir ese texto en audio utilizando la librería **gTTS**.\
+    Tkinter.
+2.  Convertir ese texto en audio utilizando la librería **gTTS**.
 3.  Guardar el archivo generado en formato MP3.
 
 El objetivo pedagógico del trabajo fue integrar lógica de programación,
@@ -67,7 +67,7 @@ Este trabajo demuestra:
 
 ------------------------------------------------------------------------
 
-## 📄 Autor
+## 📄 Autor: Due204 
 
 Desarrollado como parte del **Trabajo Práctico Final de Fundamentos de
 Informática**.
