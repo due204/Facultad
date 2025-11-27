@@ -67,7 +67,7 @@ Este trabajo demuestra:
 
 ------------------------------------------------------------------------
 
-## 📄 Autor: Due204 
-
+## 📄 Autor:
+due204
 Desarrollado como parte del **Trabajo Práctico Final de Fundamentos de
 Informática**.
